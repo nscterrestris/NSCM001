@@ -1,3 +1,3 @@
-# Jake-Freddie-Spong-Thermally-Driven-Bumblebee-Nests-NSCM001
+# NSCM001-Thermal-Bumblebee-Model
 
 Thermal model of bumblebee nests using physical (energetic parameters).
